@@ -47,7 +47,7 @@ class _QuoteScreenState extends State<QuoteScreen> {
             child: Padding(
               padding: EdgeInsets.symmetric(
                 horizontal: isWide ? 0 : 24,
-                vertical: 32,
+                vertical: 20,
               ),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.center,
